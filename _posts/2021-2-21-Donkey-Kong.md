@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Donkey Kong Country: Tropic Freeze (A Video Game Rant)"
+date:   2021-02-21 12:00:00 -0700
+categories: Video Game Rant
+author: Tyler Rankin
+---
+
+I had a fantastic time playing Donkey Kong Country Returns on Wii way back in the day. The tight and difficult
+2D platforming grinded hours out of my life back in the day. Despite how much I enjoyed the old entry, though, the sequel flew right past me. I'm not the only one to experience this. Many people share the sentiment that this game kinda went under the radar as it was released late in the Wii U's lifecycle.
+ 
+If you missed Donkey Kong Country: Tropic Freeze during the Wii U, do check this game out because there is so much to enjoy and admire in this barrel of a good time.
+ 
+## Gameplay
+ 
+As a fan of 2D platformers this game was a breath of fresh air. One of the biggest highlights being the fantastic level design. Almost every level offered something new and unique to experience. Even after completing the game I have a deep desire to go back and unlock some of the secret levels. This is because I trust that when Tropical Freeze gives me a level, it's not going to waste my time with a generic point A to B level. There will always be something novel to engage with, whether that is a new mechanic, a combination of mechanics you're already familiar with, a clever spin on an old one, etc.
+ 
+Furthermore, this game does include the water levels that many people complained wasn't in the last entry. Personally, I've never been the biggest of water levels in video games. Even in Rayman Origins or Rayman Legends those types of levels felt very basic for me. Although, the ones offered in Tropic Freeze got my respect because again the level design variety shined through to make these typically mundane levels feel fresh. Call me crazy, but I think having to manage the amount of air I had gave a nice sense of tension increased my enjoyment of these water levels. Otherwise in other modern, 2d platformers I could lazily drift my way to the end of the level.
+ 
+The game should be however, should've been called Donkey Kong Country: Dixie Takes Over. Because really out of the three characters, Dixie's abilities overpowered the other two. Dixie's hair spin move allows Donkey Kong to achieve what almost feels like a real double jump by raising his elevation. Diddy Kong only allows you to sustain Donkey Kong's current jump height, just allowing you to cross that gap. But you know, it's Diddy Kong. So he gets second place.
+ 
+Cranky Kong, he sucks. The concept of Cranky sounds really cool, let the player use his beard to bounce off of spikes. Which sounds nice
+until you realize that a majority of the game doesn't make use of spikes. Instead, what you have are a bunch of bottomless pits. When I'm faced with similar obstacles Diddy and Dixie are there to help me out. But whenever I switched over to Cranky Kong my brain couldn't make the switch over to the way Cranky Kong plays. Granted though, I could do definitely see gamers making a Nuzlock like challenge by exclusively playing as this character. Because that would be a challenge.
+ 
+### Bosses 
+In other news the boss fights are so much better than its predecessor. Back in Donkey Kong Country Returns, many of those fights felt extremely basic, too easy and left much to be desired. It only really picked up towards the end with a boss ripped off from Star Fox's Andross.
+ 
+This is yet another area where Tropic Freeze outshine its predecessor. Each boss fight is a memorable one! I'm not gonna spoil it, but this was helped by the variety in boss characters. Each one felt like they had their own personality, and you could see those traits playing off in the fight. 
+ 
+Not only was the creativity refreshing to see in a Nintendo boss fight, but also the satisfying level of challenge they offer as well. Back in Donkey Kong Country Returns, it took a total of 3 easy hits to defeat the boss. In Tropic Freeze, it takes 9 hits in order to beat the boss. And the boss will switch up its patterns on the third and sixth hit. This sells what a boss should be, an awesome set-piece moment to prove your mastery over the game. If Nintendo wants to start using this formula instead for their bosses, I would be down for it.
+ 
+## Theme (Graphics/Aesthetics/Sound)
+ 
+I'll be honest, seeing Donkey Kong jump into a level, slamming the floor, banging his chest, shouting out "A WOO WHOOO" never got old for me. The sounds gives an already positive filled game a slapstick flavor. It even helps out Cranky Kong be less sucky in my opinion by giving his beard bouncing up a pogo stick like sound.
+ 
+The rhythmic music had my head bobbing to the beat, jiving to groove or on the edge of my seat during a tense jump sequence.
+ 
+Lastly, each world offers such a nice aesthetic such as the fruity jungle, winter wasteland, or the forest filled with wind instruments. They were a joy to explore because I could sense the passion the design team put into them.
+ 
+ 
+## Final Thoughts
+ 
+Overall, Tropic Freeze just made me feel happy. Donkey Kong Country Returns, is kinda like that old friend you've thought about touching base with. Then when you finally get the nerve to call them up you realize just how much they've grown, and how much fun they are to be with. (Tropic Freeze)
+
+So do yourself a favor, stop reading this blog and go treat yourself to this appealing entry in the Donkey Kong series.
+
+
