@@ -101,7 +101,7 @@ table td { border: 1px solid #ebfbf4; }
 
 .contact-list, .social-media-list { list-style: none; margin-left: 0; }
 
-.footer-col-wrapper { font-size: 15px; color: #3fdb96; margin-left: -15px; }
+.footer-col-wrapper { font-size: 15px; margin-left: -15px; }
 
 .footer-col { float: left; margin-bottom: 15px; padding-left: 15px; }
 
@@ -154,7 +154,7 @@ table td { border: 1px solid #ebfbf4; }
 /** Syntax highlighting styles */
 .highlight { background: #fff; }
 
-.highlighter-rouge .highlight { background: #eef; }
+.highlighter-rouge .highlight { background: #1d1c1d; }
 
 .highlight .c { color: #998; font-style: italic; }
 
