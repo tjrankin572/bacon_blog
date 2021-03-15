@@ -1,0 +1,37 @@
+I"�<p>Hello World!</p>
+
+<p>I guess that I’m full speed ahead on this whole blog thing.
+ One of the things I would love to write about on a consistent basis would be coding tutorials! I’ve been very lucky to have taught myself enough code in order to land a career in the tech industry. So it’d be nice to share what I’ve learned along the way.</p>
+
+<p>Therefore, why not cover the absolute basics that I’m positive any developer whose visiting this blog has probably seen before!</p>
+
+<p>Today we’re going to discuss how to use radio buttons!</p>
+
+<p><img src="https://media.giphy.com/media/W0SLa0YuzWBZ6/giphy.gif" alt="Software Developers Have a Disgusted Reaction" />
+ \</p>
+
+<p>I don’t care if you can google it and find it on MDN. 
+We’re doing it anyway dang it!</p>
+
+<hr />
+
+<h1 id="making-a-radio-button">Making a Radio Button</h1>
+
+<p>The code for this very humble input is as follows.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;input type="radio" id="yes" name="cheese" value="yes"&gt; 
+&lt;label for="yes"&gt;Yes&lt;/label&gt;  
+&lt;input type="radio" id="no" name="cheese" value="no"&gt; 
+&lt;label for="no"&gt;No&lt;/label&gt;
+</code></pre></div></div>
+
+<p>It produces the following result!
+<br /></p>
+<div>
+    <input type="radio" id="yes" name="cheese" value="yes" /> 
+    <label for="yes">Yes</label>  
+    <input type="radio" id="no" name="cheese" value="no" /> 
+    <label for="no">No</label>
+</div>
+
+:ET
