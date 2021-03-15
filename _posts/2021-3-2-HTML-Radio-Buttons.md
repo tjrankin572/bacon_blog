@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "HTML: Basic Inputs PT-1"
-date:   2021-03-2 12:00:00 -0700
+title:  "HTML: Basic Inputs Part 1"
+date:   2021-03-14 12:00:00 -0700
 categories: Coding
 author: Tyler Rankin
 ---
